@@ -39,3 +39,8 @@ Your tasks are to do the following:
 Here are some final considerations:
 
 * You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
+
+
+### Copyright
+
+Trilogy Education Services © 2020. All Rights Reserved.
